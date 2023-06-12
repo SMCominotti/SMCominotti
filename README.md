@@ -103,3 +103,5 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+https://github-readme-stats.vercel.app/api?username=SMCominotti&theme=react&show_icons=true&include_all_commits=true
