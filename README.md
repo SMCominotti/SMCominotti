@@ -83,8 +83,9 @@
 
 <br/>
 
-![Lenguajes utilizados en Airbnb-Clone](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=
-![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact)
+![Lenguajes utilizados en tus repositorios](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6)
+![Lenguajes utilizados en Airbnb-Clone](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&repo=SMCominotti/Airbnb-Clone)
+
 
 
 
