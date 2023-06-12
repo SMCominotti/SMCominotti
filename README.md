@@ -6,7 +6,7 @@
 ### <div align="center">I'm Stella Maris👩‍💻 Full Stack Developer 💻</div>  
   
 
-- 🔭 I’m currently working on an [Proyecto-individual-Food](smcominotti.github.io/proyecto-individual-food/)  and on a group project, with 6 colleagues: [Airbnb-Clone](smcominotti.github.io/Airbnb-Clone/)
+- 🔭 I’m currently working on an [Proyecto-individual-Food](smcominotti.github.io/proyecto-individual-food/)  and on a group project, with 6 colleagues: [Airbnb-Clone](https://github.com/SMCominotti/Airbnb-Clone.git)
   
 
 - 🌱 I’m currently learning TypeScript , MongoDB and Next... and I want to learn Angular too.  
