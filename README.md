@@ -81,7 +81,8 @@
 
 <br/>  
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact
+![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact)
+
 
 ## Recent Blog Posts  
   
