@@ -78,25 +78,13 @@
 
 ## Github Stats  
 
-<!--START_SECTION:languages-->
-<script>
-fetch("https://api.github.com/users/SMCominotti/repos?sort=pushed")
-  .then(response => response.json())
-  .then(data => {
-    const repos = data.map(repo => repo.language).filter(language => language !== null);
-    const uniqueLanguages = [...new Set(repos)];
-    const languagesSection = document.querySelector("#languages-section");
-    const languagesList = document.createElement("ul");
-    uniqueLanguages.forEach(language => {
-      const languageItem = document.createElement("li");
-      languageItem.textContent = language;
-      languagesList.appendChild(languageItem);
-    });
-    languagesSection.appendChild(languagesList);
-  })
-  .catch(error => console.log(error));
-</script>
-<!--END_SECTION:languages-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SMCominotti&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
+
+<br/>
+
+![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&exclude_repo=Airbnb-Clone)
 
 
 
