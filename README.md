@@ -79,12 +79,11 @@
 ## Github Stats  
 
 
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=SMCominotti&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&include_repo=Airbnb-Clone" align="center" />
+</div>
 
-
-<br/>
-
-![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&include_repo=Airbnb-Clone)
 
 
 
