@@ -78,30 +78,20 @@
 
 ## Github Stats  
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SMCominotti&show_icons=true&count_private=true&hide_border=true" />
-  </div>
-  <div style="margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&include_all_commits=true" />
-  </div>
-</div>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td style="padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=SMCominotti&show_icons=true&count_private=true&hide_border=true" />
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&include_all_commits=true" />
+    </td>
+  </tr>
+</table>
 
 
 
 
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=SMCominotti&&style=flat-square" align="center" />
 </div>  
   
