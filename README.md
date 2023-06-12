@@ -78,14 +78,16 @@
 
 ## Github Stats  
 
-<div style="text-align: center;">
-  <p style="display: inline-block; margin-right: 20px;">
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=SMCominotti&show_icons=true&count_private=true&hide_border=true" />
-  </p>
-  <p style="display: inline-block; margin-left: 20px;">
+  </div>
+  <div style="margin-left: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&include_all_commits=true" />
-  </p>
+  </div>
 </div>
+
+
 
 
 
