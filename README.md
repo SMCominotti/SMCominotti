@@ -84,7 +84,7 @@
 
 <br/>
 
-![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&exclude_repo=Airbnb-Clone)
+![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&include_repo=Airbnb-Clone)
 
 
 
