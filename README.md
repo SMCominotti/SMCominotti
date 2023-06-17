@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://app.vana.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fvana-jobs-output%2Fcaae3b79-26b6-4f69-96f0-eb5e8c0c271b%252F572794b8-8995-4436-a927-9aea9dac190b.png&w=640&q=40" align="center" height="200" width="200" />
+<img src="C:\Users\smcom\Pictures\Vana Studio - Close up portrait of   in hyperrealism, with graphite, pastel c… 0.png" align="center" height="200" width="200" />
 </div>  
   
 
