@@ -6,24 +6,25 @@
 ### <div align="center">I'm Stella Maris👩‍💻 Full Stack Developer 💻</div>  
   
 
-- 🔭 Recently, I have been working on:
-🍔 Individual project, [Proyecto-individual-Food](https://github.com/SMCominotti/Proyecto-individual-Food.git), which consisted of designing and developing a food App that included searches, combined filtering, ordering, pagination, creation of posts from a form with its subsequent step by the back, storing it in the database to be shown from the front. Full Crud, Validation and error handling.
+🔭 Recently, I have been working on:
+-🍔 Individual project, [Proyecto-individual-Food](https://github.com/SMCominotti/Proyecto-individual-Food.git), which consisted of designing and developing a food App that included searches, combined filtering, ordering, pagination, creation of posts from a form with its subsequent step by the back, storing it in the database to be shown from the front. Full Crud, Validation and error handling.
 🖥️ Technologies used: React, Redux, JavaScript, Css, Nodejs, Express, PostgreSQL, Sequelize and GitHub.
 
-🏘️ Then we did a group project, with 6 colleagues, which consisted of making a clone of the well-known Airbnb page, [Airbnb.Clone_Proyecto.Grupal](https://github.com/SMCominotti/Airbnb.Clone_Proyecto.Grupal.git).
+-🏘️ Then we did a group project, with 6 colleagues, which consisted of making a clone of the well-known Airbnb page, [Airbnb.Clone_Proyecto.Grupal](https://github.com/SMCominotti/Airbnb.Clone_Proyecto.Grupal.git).
 🖥️ Technologies used: React Vite, Redux, TypeScript, Css, TailwindCss, Auth0, Next.js, Cloudinary, NodeJs MongoDB, Prisma, GitHub.
 
-🏡And a final project, Sweet Home [Sweet-Home](https://github.com/SMCominotti/Sweet-Home.git) with an agile development team using the SCRUM modality, among 8 colleagues, in which we had weekly sprints, where we presented to a Product Owner progress on the development of a complete app for an E-commerce for the sale of furniture and home decoration that included: Login, registration, own and third-party authentication, session of users, searches, combined filtering, ordering, banning users, sending emails, favorites, Full Crud, Validation and error handling, shopping cart, payment platform, detail, purchase orders, ranking, administrator panel, logical deletion , deploy, among other things. Desde aquí, podrás acceder al Deploy de nuestra página Sweet Home y conocerla: https://sweet-home-w1rt.onrender.com/#/ 
+-🏡And a final project, Sweet Home [Sweet-Home](https://github.com/SMCominotti/Sweet-Home.git) with an agile development team using the SCRUM modality, among 8 colleagues, in which we had weekly sprints, where we presented to a Product Owner progress on the development of a complete app for an E-commerce for the sale of furniture and home decoration that included: Login, registration, own and third-party authentication, session of users, searches, combined filtering, ordering, banning users, sending emails, favorites, Full Crud, Validation and error handling, shopping cart, payment platform, detail, purchase orders, ranking, administrator panel, logical deletion , deploy, among other things. Desde aquí, podrás acceder al Deploy de nuestra página Sweet Home y conocerla: https://sweet-home-w1rt.onrender.com/#/ 
 🖥️ Technologies used: React Vite, Redux, JavaScript, Css, TailwindCss, Firebase, Cloudinary, Express, NodeJs MongoDB, GitHub, SCRUM methodology
  
 
-- 🌱 I’m currently learning TypeScript , MongoDB and Next... and I want to learn Angular too.  
+- 👀 I’m currently learning TypeScript , MongoDB and Next... and I want to learn Angular too.  
   
 
-- 📨 You can contact me at smcominotti@gmail.com  
+- 📨 You can contact me at smcominotti@gmail.com
+-  (https://es.vecteezy.com/arte-vectorial/18910721-vector-logo-de-linkedin-simbolo-de-linkedin-vector-libre-de-icono-de-linkedin) My Linkedin is https://www.linkedin.com/in/stella-maris-cominotti/
   
 
-- ⚡ Fun fact: I love working in VSC with lots of colors, it´s cheerful  
+- 🌈 Fun fact: I love working in VSC with lots of colors, it´s cheerful  
   
 
 <br/>  
