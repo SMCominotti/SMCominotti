@@ -81,11 +81,10 @@
 </td><td valign="top" width="33%">
 
 
-
-
-
 <br/>  
-# Connect with me:
+
+## Connect with me:
+
 <div align="center"> 
 <h2> Email:</h2>
 stellacominotti@gmail.com
