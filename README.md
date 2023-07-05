@@ -85,8 +85,8 @@
 
 
 <br/>  
-# Connect with me 
-#<div align="center"> 
+# Connect with me:
+<div align="center"> 
 <h2> Email:</h2>
 stellacominotti@gmail.com
 <h2> GitHub</h2>
