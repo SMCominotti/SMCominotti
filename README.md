@@ -86,10 +86,9 @@
 
 <br/>  
 
-## Connect with me  
-
--Email: stellacominotti@gmail.com
-<div align="center">
+#<div align="center"># Connect with me  
+<h2> Email:</h2>
+stellacominotti@gmail.com
 <h2> GitHub</h2>
 <a href="https://github.com/SMCominotti" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
