@@ -7,9 +7,14 @@
   
 
 🔭 Recently, I have been working on:
+<div>
+<p>
 -🍔 Individual project, [Proyecto-individual-Food](https://github.com/SMCominotti/Proyecto-individual-Food.git), which consisted of designing and developing a food App that included searches, combined filtering, ordering, pagination, creation of posts from a form with its subsequent step by the back, storing it in the database to be shown from the front. Full Crud, Validation and error handling.
+</p> 
+<p>
 🖥️ Technologies used: React, Redux, JavaScript, Css, Nodejs, Express, PostgreSQL, Sequelize and GitHub.
-
+</p> 
+</div>
 -🏘️ Then we did a group project, with 6 colleagues, which consisted of making a clone of the well-known Airbnb page, [Airbnb.Clone_Proyecto.Grupal](https://github.com/SMCominotti/Airbnb.Clone_Proyecto.Grupal.git).
 🖥️ Technologies used: React Vite, Redux, TypeScript, Css, TailwindCss, Auth0, Next.js, Cloudinary, NodeJs MongoDB, Prisma, GitHub.
 
