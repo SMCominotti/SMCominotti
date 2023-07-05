@@ -20,8 +20,11 @@
 - 👀 I’m currently learning TypeScript , MongoDB and Next... and I want to learn Angular too.  
   
 
-- 📨 You can contact me at smcominotti@gmail.com
--  (https://es.vecteezy.com/arte-vectorial/18910721-vector-logo-de-linkedin-simbolo-de-linkedin-vector-libre-de-icono-de-linkedin) My Linkedin is https://www.linkedin.com/in/stella-maris-cominotti/
+- 📨 You can contact me:
+## Email:
+smcominotti@gmail.com
+## Linkedin:
+https://www.linkedin.com/in/stella-maris-cominotti/
   
 
 - 🌈 Fun fact: I love working in VSC with lots of colors, it´s cheerful  
