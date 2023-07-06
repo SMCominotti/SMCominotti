@@ -35,7 +35,7 @@
 </div>
 <br/> 
 - 👀 I'm currently learning TypeScript, MongoDB and Next... and I also want to learn Angular. In addition to continuing to improve my English, in which I currently have a B1 level.
-
+<br/> 
     
 - 🌈 Fun fact: I love working in VSC with lots of colors, it´s cheerful  
   
