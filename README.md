@@ -13,8 +13,9 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
     </p>
   </div>
 <br/> 
-<br/> 
+
 🔭 Recently, I have been working on:
+<br/> 
 <div>
 <p>
 -🍔 Individual project, [Proyecto-individual-Food](https://github.com/SMCominotti/Proyecto-individual-Food.git), which consisted of designing and developing a food App that included searches, combined filtering, ordering, pagination, creation of posts from a form with its subsequent step by the back, storing it in the database to be shown from the front. Full Crud, Validation and error handling.
