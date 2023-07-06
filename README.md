@@ -12,7 +12,7 @@
 
  
 ##  🔭 Recently, I have been working on: 
-<div style="text-align: justify;">
+<div align="justify">
 <p>
 -🍔 Individual project, [Proyecto-individual-Food](https://github.com/SMCominotti/Proyecto-individual-Food.git), which consisted of designing and developing a food App that included searches, combined filtering, ordering, pagination, creation of posts from a form with its subsequent step by the back, storing it in the database to be shown from the front. Full Crud, Validation and error handling.
 </p> 
@@ -21,7 +21,7 @@
 </p> 
 </div>
 <br/> 
-<div style="text-align: justify;">
+<div align="justify">
 <p>
 -🏘️ Then we did a group project, with 6 colleagues, which consisted of making a clone of the well-known Airbnb page, [Airbnb.Clone_Proyecto.Grupal](https://github.com/SMCominotti/Airbnb.Clone_Proyecto.Grupal.git).
 </p>
@@ -30,7 +30,7 @@
  </p> 
 </div>
 <br/> 
-<div style="text-align: justify;">
+<div align="justify">
 <p>
 -🏡And a final project, Sweet Home [Sweet-Home](https://github.com/SMCominotti/Sweet-Home.git) with an agile development team using the SCRUM modality, among 8 colleagues, in which we had weekly sprints, where we presented to a Product Owner progress on the development of a complete app for an E-commerce for the sale of furniture and home decoration that included: Login, registration, own and third-party authentication, session of users, searches, combined filtering, ordering, banning users, sending emails, favorites, Full Crud, Validation and error handling, shopping cart, payment platform, detail, purchase orders, ranking, administrator panel, logical deletion , deploy, among other things. Desde aquí, podrás acceder al Deploy de nuestra página Sweet Home y conocerla: https://sweet-home-w1rt.onrender.com/#/ 
 </p> 
