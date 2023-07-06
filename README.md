@@ -11,7 +11,7 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
 🫶If I have to name you some of my Soft Skils, I would say they are Passion for learning and continuous improvement. Orientation to results and to the client. Initiative. Effective communication skills. Leadership. Empathy, Creative, Flexible, Curious. Agile learning and self-motivation. Bargaining power.
     </p>
   </div>
- 
+ <br/> 
 ####  🔭 Recently, I have been working on: 
 
 <div>
