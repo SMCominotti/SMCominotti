@@ -13,7 +13,7 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
   </div>
 <br/> 
 
-###<div>🔭 Recently, I have been working on:</div>
+<b>🔭 Recently, I have been working on:<b/>
 <br/> 
 <div>
 <p>
