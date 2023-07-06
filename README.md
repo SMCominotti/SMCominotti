@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Stella Maris👩‍💻 Full Stack Developer 💻</div>  
+# <div align="center">I'm Stella Maris👩‍💻 Full Stack Developer 💻</div>  
   <div>
     <p>
 I want to tell you that I am a Full Stack Developer 🖥️ who is constantly learning, ready to face challenges and exceed expectations. I have outstanding teamwork skills and a passion for developing innovative solutions. Passionate, energetic and proactive in everything I set my mind to. I have an intensive bootcamp Background of more than 800 hours, where I have focused a large part of my time and effort on Front-end development.
@@ -11,9 +11,9 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
 🫶If I have to name you some of my Soft Skils, I would say they are Passion for learning and continuous improvement. Orientation to results and to the client. Initiative. Effective communication skills. Leadership. Empathy, Creative, Flexible, Curious. Agile learning and self-motivation. Bargaining power.
     </p>
   </div>
- <br/> 
-####  🔭 Recently, I have been working on: 
 
+ 
+##  🔭 Recently, I have been working on: 
 <div>
 <p>
 -🍔 Individual project, [Proyecto-individual-Food](https://github.com/SMCominotti/Proyecto-individual-Food.git), which consisted of designing and developing a food App that included searches, combined filtering, ordering, pagination, creation of posts from a form with its subsequent step by the back, storing it in the database to be shown from the front. Full Crud, Validation and error handling.
