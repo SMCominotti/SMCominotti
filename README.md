@@ -4,17 +4,15 @@
   
 
 # <div align="center">I'm Stella Maris👩‍💻 Full Stack Developer 💻</div>  
-  <div>
-    <p>
-I want to tell you that I am a Full Stack Developer 🖥️ who is constantly learning, ready to face challenges and exceed expectations. I have outstanding teamwork skills and a passion for developing innovative solutions. Passionate, energetic and proactive in everything I set my mind to. I have an intensive bootcamp Background of more than 800 hours, where I have focused a large part of my time and effort on Front-end development.
+<div style="text-align: justify;">
+<p> I want to tell you that I am a Full Stack Developer 🖥️ who is constantly learning, ready to face challenges and exceed expectations. I have outstanding teamwork skills and a passion for developing innovative solutions. Passionate, energetic and proactive in everything I set my mind to. I have an intensive bootcamp Background of more than 800 hours, where I have focused a large part of my time and effort on Front-end development.
 🚀 Some of my featured Tech Skills are: JavaScript, React, Redux, TailwindCss, CSS, GitHub and agile methodologies like SCRUM.
-🫶If I have to name you some of my Soft Skils, I would say they are Passion for learning and continuous improvement. Orientation to results and to the client. Initiative. Effective communication skills. Leadership. Empathy, Creative, Flexible, Curious. Agile learning and self-motivation. Bargaining power.
-    </p>
-  </div>
+🫶If I have to name you some of my Soft Skils, I would say they are Passion for learning and continuous improvement. Orientation to results and to the client. Initiative. Effective communication skills. Leadership. Empathy, Creative, Flexible, Curious. Agile learning and self-motivation. Bargaining power. </p>
+</div>
 
  
 ##  🔭 Recently, I have been working on: 
-<div>
+<div style="text-align: justify;">
 <p>
 -🍔 Individual project, [Proyecto-individual-Food](https://github.com/SMCominotti/Proyecto-individual-Food.git), which consisted of designing and developing a food App that included searches, combined filtering, ordering, pagination, creation of posts from a form with its subsequent step by the back, storing it in the database to be shown from the front. Full Crud, Validation and error handling.
 </p> 
@@ -23,7 +21,7 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
 </p> 
 </div>
 <br/> 
-<div>
+<div style="text-align: justify;">
 <p>
 -🏘️ Then we did a group project, with 6 colleagues, which consisted of making a clone of the well-known Airbnb page, [Airbnb.Clone_Proyecto.Grupal](https://github.com/SMCominotti/Airbnb.Clone_Proyecto.Grupal.git).
 </p>
@@ -32,7 +30,7 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
  </p> 
 </div>
 <br/> 
-<div>
+<div style="text-align: justify;">
 <p>
 -🏡And a final project, Sweet Home [Sweet-Home](https://github.com/SMCominotti/Sweet-Home.git) with an agile development team using the SCRUM modality, among 8 colleagues, in which we had weekly sprints, where we presented to a Product Owner progress on the development of a complete app for an E-commerce for the sale of furniture and home decoration that included: Login, registration, own and third-party authentication, session of users, searches, combined filtering, ordering, banning users, sending emails, favorites, Full Crud, Validation and error handling, shopping cart, payment platform, detail, purchase orders, ranking, administrator panel, logical deletion , deploy, among other things. Desde aquí, podrás acceder al Deploy de nuestra página Sweet Home y conocerla: https://sweet-home-w1rt.onrender.com/#/ 
 </p> 
@@ -43,7 +41,7 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
 <br/> 
 - 👀 I'm currently learning TypeScript, MongoDB and Next... and I also want to learn Angular. In addition to continuing to improve my English, in which I currently have a B1 level.
 <br/> 
-    <br/> 
+<br/> 
 - 🌈 Fun fact: I love working in VSC with lots of colors, it´s cheerful  
   
 
