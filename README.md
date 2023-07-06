@@ -12,7 +12,8 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
 📝In addition, I would like to tell you that I continue to constantly train, both in programming and in English, to continue improving day by day
     </p>
   </div>
-
+<br/> 
+<br/> 
 🔭 Recently, I have been working on:
 <div>
 <p>
