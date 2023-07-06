@@ -4,7 +4,7 @@
   
 
 # <div align="center">I'm Stella Maris👩‍💻 Full Stack Developer 💻</div>  
-<div style="text-align: justify;">
+<div align="justify">
 <p> I want to tell you that I am a Full Stack Developer 🖥️ who is constantly learning, ready to face challenges and exceed expectations. I have outstanding teamwork skills and a passion for developing innovative solutions. Passionate, energetic and proactive in everything I set my mind to. I have an intensive bootcamp Background of more than 800 hours, where I have focused a large part of my time and effort on Front-end development.
 🚀 Some of my featured Tech Skills are: JavaScript, React, Redux, TailwindCss, CSS, GitHub and agile methodologies like SCRUM.
 🫶If I have to name you some of my Soft Skils, I would say they are Passion for learning and continuous improvement. Orientation to results and to the client. Initiative. Effective communication skills. Leadership. Empathy, Creative, Flexible, Curious. Agile learning and self-motivation. Bargaining power. </p>
