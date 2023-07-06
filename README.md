@@ -14,7 +14,7 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
 <br/> 
 
  
-##  🔭 Recently, I have been working on: 
+#  🔭 Recently, I have been working on: 
 <br/> 
 <div>
 <p>
