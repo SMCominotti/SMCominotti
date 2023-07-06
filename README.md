@@ -45,7 +45,7 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
 <br/> 
 - 👀 I'm currently learning TypeScript, MongoDB and Next... and I also want to learn Angular. In addition to continuing to improve my English, in which I currently have a B1 level.
 <br/> 
-    
+    <br/> 
 - 🌈 Fun fact: I love working in VSC with lots of colors, it´s cheerful  
   
 
