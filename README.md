@@ -24,6 +24,7 @@
 🖥️ Technologies used: React Vite, Redux, TypeScript, Css, TailwindCss, Auth0, Next.js, Cloudinary, NodeJs MongoDB, Prisma, GitHub.
  </p> 
 </div>
+<br/> 
 <div>
 <p>
 -🏡And a final project, Sweet Home [Sweet-Home](https://github.com/SMCominotti/Sweet-Home.git) with an agile development team using the SCRUM modality, among 8 colleagues, in which we had weekly sprints, where we presented to a Product Owner progress on the development of a complete app for an E-commerce for the sale of furniture and home decoration that included: Login, registration, own and third-party authentication, session of users, searches, combined filtering, ordering, banning users, sending emails, favorites, Full Crud, Validation and error handling, shopping cart, payment platform, detail, purchase orders, ranking, administrator panel, logical deletion , deploy, among other things. Desde aquí, podrás acceder al Deploy de nuestra página Sweet Home y conocerla: https://sweet-home-w1rt.onrender.com/#/ 
@@ -32,7 +33,7 @@
 🖥️ Technologies used: React Vite, Redux, JavaScript, Css, TailwindCss, Firebase, Cloudinary, Express, NodeJs, MongoDB, GitHub, SCRUM methodology, Figma, Mercado pago, Trello.
 </p>
 </div>
-
+<br/> 
 - 👀 I'm currently learning TypeScript, MongoDB and Next... and I also want to learn Angular. In addition to continuing to improve my English, in which I currently have a B1 level.
 
     
