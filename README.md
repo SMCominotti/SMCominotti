@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Stella Maris👩‍💻 Full Stack Developer 💻</div>  
+## <div align="center">I'm Stella Maris👩‍💻 Full Stack Developer 💻</div>  
   <div>
     <p>
 I want to tell you that I am a Full Stack Developer 🖥️ who is constantly learning, ready to face challenges and exceed expectations. I have outstanding teamwork skills and a passion for developing innovative solutions. Passionate, energetic and proactive in everything I set my mind to. I have an intensive bootcamp Background of more than 800 hours, where I have focused a large part of my time and effort on Front-end development.
