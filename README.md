@@ -12,9 +12,9 @@ I want to tell you that I am a Full Stack Developer 🖥️ who is constantly le
     </p>
   </div>
 <br/> 
-<div>
-  <b>🔭 Recently, I have been working on:<b/>
-</div>
+
+ 
+##  🔭 Recently, I have been working on: 
 <br/> 
 <div>
 <p>
