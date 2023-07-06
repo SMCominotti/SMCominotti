@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://cdn-vana.com/cdn-cgi/image/width=640,format=auto,quality=80/https://storage.googleapis.com/vana-jobs-output/caae3b79-26b6-4f69-96f0-eb5e8c0c271b%2F94782212-327d-4a1a-b40b-45236f6508e5.png" align="center" border="radius" height="200" width="200" />
+<img src="https://cdn-vana.com/cdn-cgi/image/width=640,format=auto,quality=80/https://storage.googleapis.com/vana-jobs-output/caae3b79-26b6-4f69-96f0-eb5e8c0c271b%2F94782212-327d-4a1a-b40b-45236f6508e5.png" align="center" height="200" width="200" style="border-radius: 50%;" />
+
 </div>  
   
 
