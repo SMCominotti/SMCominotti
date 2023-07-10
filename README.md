@@ -80,15 +80,15 @@
 <br>
  
 <div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="80" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="95" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="80" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="80" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="80" /></a>
 <a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://ih1.redbubble.net/image.438912065.6243/flat,1000x1000,075,f.u3.jpg"alt="MongoDB" height="80" /></a>
-<a href="https://hub.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.linuxadictos.com/wp-content/uploads/logo-docker.jpg.webp" alt="Docker" height="80" /></a>
-<a href="https://console.cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://www.multiplicalia.com/wp-content/uploads/2018/08/google-cloud.jpg" alt="GoogleCloud" height="80" /></a>
+<a href="https://hub.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.linuxadictos.com/wp-content/uploads/logo-docker.jpg.webp" alt="Docker" height="60" /></a>
+<a href="https://console.cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://www.multiplicalia.com/wp-content/uploads/2018/08/google-cloud.jpg" alt="GoogleCloud" height="60" /></a>
 </div>
 
 </td><td valign="top" width="33%">
