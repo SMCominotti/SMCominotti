@@ -88,7 +88,6 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="80" /></a>
 <a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://ih1.redbubble.net/image.438912065.6243/flat,1000x1000,075,f.u3.jpg"alt="MongoDB" height="80" /></a>
 <a href="https://hub.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.linuxadictos.com/wp-content/uploads/logo-docker.jpg.webp" alt="Docker" height="80" /></a>
-<a href="https://console.cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://www.multiplicalia.com/wp-content/uploads/2018/08/google-cloud.jpg" alt="GoogleCloud" height="70" /></a>
 </div>
 
 </td><td valign="top" width="33%">
