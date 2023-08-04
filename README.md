@@ -39,7 +39,7 @@
 </p>
 </div>
 <br/> 
-- 👀 I'm currently learning Docker, Google cloud, TypeScript, MongoDB and Next... and I also want to learn Angular. In addition to continuing to improve my English, in which I currently have a B1 level.
+- 👀 I'm currently learning Docker, TypeScript, Diseño UX/UI and Angular. In addition to continuing to improve my English.
 <br/> 
 <br/> 
 - 🌈 Fun fact: I love working in VSC with lots of colors, it´s cheerful  
