@@ -66,12 +66,12 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://tse2.mm.bing.net/th?id=OIP.KhEi6z8wYQZVa0IFYmaUXAHaHa&pid=Api&P=0&h=180" alt="Next.js" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" alt="Git" height="50" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Git" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.mercadopago.com/" target="_blank"><img style="margin: 10px" src="https://tfc-webapp-assets.s3.us-east-2.amazonaws.com/web/images/logos/logo_mercadopago.svg" alt="Git" height="50" /></a>
-<a href="https://cloudinary.com/" target="_blank"><img style="margin: 10px" src="https://s3.amazonaws.com/awsmp-logos/cloudinary.png" alt="Git" height="50" /></a>
-<a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo-650x366.png" alt="Git" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" alt="GitHub" height="50" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+<a href="https://cloudinary.com/" target="_blank"><img style="margin: 10px" src="https://s3.amazonaws.com/awsmp-logos/cloudinary.png" alt="Cloudinary" height="50" /></a>
+<a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo-650x366.png" alt="Trello" height="50" /></a>
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://openclipart.org/image/2400px/svg_to_png/272339/angular.png" alt="Angular" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
