@@ -63,7 +63,6 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://tse4.mm.bing.net/th?id=OIP.sjmTj1vtTlo_PKXhRYqHPgHaHa&pid=Api&P=0&h=180" alt="Vite" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://tse2.mm.bing.net/th?id=OIP.KhEi6z8wYQZVa0IFYmaUXAHaHa&pid=Api&P=0&h=180" alt="Next.js" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" alt="GitHub" height="50" /></a>
@@ -71,7 +70,6 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 <a href="https://cloudinary.com/" target="_blank"><img style="margin: 10px" src="https://s3.amazonaws.com/awsmp-logos/cloudinary.png" alt="Cloudinary" height="50" /></a>
 <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo-650x366.png" alt="Trello" height="50" /></a>
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://openclipart.org/image/2400px/svg_to_png/272339/angular.png" alt="Angular" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -84,7 +82,6 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="80" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.hamrodev.com/images/BLOGPOSTS---EN/docker-joomla/logo-docker.jpg" alt="Docker" height="80" /></a>
 </div>
 </td><td valign="top" width="33%">
 
