@@ -2,51 +2,66 @@
 <img src="https://cdn-vana.com/cdn-cgi/image/width=640,format=auto,quality=80/https://storage.googleapis.com/vana-jobs-output/caae3b79-26b6-4f69-96f0-eb5e8c0c271b%2F94782212-327d-4a1a-b40b-45236f6508e5.png" align="center" height="200" width="200" />
 </div>  
   
+# ¡Hola! Soy Stella Maris 👩‍💻
 
-# <div align="center">I'm Stella Maris👩‍💻 Full Stack Developer 💻</div>  
-<div align="justify">
-<p> I want to tell you that I am a Full Stack Developer 🖥️ who is constantly learning, ready to face challenges and exceed expectations. I have outstanding teamwork skills and a passion for developing innovative solutions. Passionate, energetic and proactive in everything I set my mind to. I have an intensive bootcamp Background of more than 800 hours, where I have focused a large part of my time and effort on Front-end development.
-🚀 Some of my featured Tech Skills are: JavaScript, React, Redux, Angular, TailwindCss, CSS, GitHub and agile methodologies like SCRUM.
-🫶If I have to name you some of my Soft Skils, I would say they are Passion for learning and continuous improvement. Orientation to results and to the client. Initiative. Effective communication skills. Leadership. Empathy, Creative, Flexible, Curious. Agile learning and self-motivation. Bargaining power. </p>
-</div>
+Desarrolladora Full Stack con muchas ganas de crecer en el mundo tech 🌍. Vengo de un bootcamp intensivo de más de 800 horas y actualmente estoy cursando el 2º año de **Desarrollo de Aplicaciones Web (DAW)** en España — así que sigo sumando y aprendiendo todos los días.
 
- 
-##  🔭 Recently, I have been working on: 
-<div align="justify">
-<p>
--🍔 Individual project, [Proyecto-individual-Food](https://github.com/SMCominotti/Proyecto-individual-Food.git), which consisted of designing and developing a food App that included searches, combined filtering, ordering, pagination, creation of posts from a form with its subsequent step by the back, storing it in the database to be shown from the front. Full Crud, Validation and error handling.
-</p> 
-<p>
-🖥️ Technologies used: React, Redux, JavaScript, Css, Nodejs, Express, PostgreSQL, Sequelize and GitHub.
-</p> 
-</div>
-<br/> 
-<div align="justify">
-<p>
--🏘️ Then we did a group project, with 6 colleagues, which consisted of making a clone of the well-known Airbnb page, [Airbnb.Clone_Proyecto.Grupal](https://github.com/SMCominotti/Airbnb.Clone_Proyecto.Grupal.git).
-</p>
-<p>
-🖥️ Technologies used: React Vite, Redux, TypeScript, Css, TailwindCss, Auth0, Next.js, Cloudinary, NodeJs MongoDB, Prisma, GitHub.
- </p> 
-</div>
-<br/> 
-<div align="justify">
-<p>
--🏡And a final project, Sweet Home [Sweet-Home](https://github.com/SMCominotti/Sweet-Home.git) with an agile development team using the SCRUM modality, among 8 colleagues, in which we had weekly sprints, where we presented to a Product Owner progress on the development of a complete app for an E-commerce for the sale of furniture and home decoration that included: Login, registration, own and third-party authentication, session of users, searches, combined filtering, ordering, banning users, sending emails, favorites, Full Crud, Validation and error handling, shopping cart, payment platform, detail, purchase orders, ranking, administrator panel, logical deletion , deploy, among other things. From here, you can access the Deploy of our Sweet Home page and get to know it: https://sweet-home-w1rt.onrender.com/#/ and here, you can see the video https://www.youtube.com/watch?v=qMEhGh_a1Eo
-</p> 
-<p>
-🖥️ Technologies used: React Vite, Redux, JavaScript, Css, TailwindCss, Firebase, Cloudinary, Express, NodeJs, MongoDB, GitHub, SCRUM methodology, Figma, Mercado pago, Trello.
-</p>
-</div>
-<br/> 
-- 👀 I'm currently learning Diseño UX/UI. In addition to continuing to improve my English.
-<br/> 
-<br/> 
-- 🌈 Fun fact: I love working in VSC with lots of colors, it´s cheerful  
-  
+Me apasiona el desarrollo frontend, crear interfaces que no solo funcionen bien sino que también se vean bien. Disfruto trabajar en equipo, me adapto rápido y siempre busco mejorar lo que hago.
 
-<br/>  
-<br/> 
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+`JavaScript` `TypeScript` `React` `Redux` `Angular` `Next.js` `HTML5` `CSS3` `TailwindCSS` `Bootstrap`
+
+**Backend**
+`Node.js` `Express` `REST APIs`
+
+**Bases de datos**
+`PostgreSQL` `MongoDB` `MySQL` `SQL Server` `Sequelize` `Prisma`
+
+**Herramientas & otros**
+`Git` `GitHub` `Firebase` `Cloudinary` `Auth0` `Figma` `Trello` `SCRUM`
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🍔 Food App — Proyecto Individual
+App de recetas con búsqueda, filtros combinados, paginación y formulario de creación. CRUD completo, validaciones y manejo de errores end-to-end.
+
+**Stack:** React · Redux · JavaScript · Node.js · Express · PostgreSQL · Sequelize
+
+🔗 [Ver repositorio](https://github.com/SMCominotti/Proyecto-individual-Food)
+
+---
+
+### 🏘️ Airbnb Clone — Proyecto Grupal (6 personas)
+Clon funcional de Airbnb desarrollado en equipo. Mi primer contacto real con TypeScript y Next.js en un proyecto colaborativo.
+
+**Stack:** React Vite · Redux · TypeScript · Next.js · TailwindCSS · Auth0 · Cloudinary · Node.js · MongoDB · Prisma
+
+🔗 [Ver repositorio](https://github.com/SMCominotti/Airbnb.Clone_Proyecto.Grupal)
+
+---
+
+### 🏡 Sweet Home — Proyecto Final (8 personas · metodología SCRUM)
+E-commerce completo de muebles y decoración del hogar. Desarrollado en sprints semanales con presentaciones a Product Owner.
+
+Incluye: autenticación propia y con terceros, carrito de compras, pasarela de pago (Mercado Pago), panel de administración, gestión de usuarios, favoritos, reseñas, emails automáticos, deploy en producción, y más.
+
+**Stack:** React Vite · Redux · JavaScript · TailwindCSS · Firebase · Cloudinary · Node.js · MongoDB · Figma · Trello
+
+🔗 [Ver repositorio](https://github.com/SMCominotti/Sweet-Home) · [Demo en vivo](https://sweet-home-w1rt.onrender.com/#/) · [Video del proyecto](https://www.youtube.com/watch?v=qMEhGh_a1Eo)
+
+---
+
+## 📚 Actualmente
+
+- Cursando **2º año de DAW** en España
+- Formada en **diseño UX/UI**
+- Arrancando un curso de **Agentes de IA y Automatización** 🤖
 
 ## My Skill Set:  
 <br>
@@ -90,32 +105,24 @@
 
 <br/>  
 
-## Connect with me:
+## 🌈 Dato random
 
-<div align="center"> 
-<h2> Email:</h2>
-stellacominotti@gmail.com
-<h2> GitHub</h2>
-<a href="https://github.com/SMCominotti" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<h2>Linkedin</h2>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/stella-maris-cominotti/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+Me encanta programar con el editor lleno de colores. VSCode con tema de colores vivos = modo concentración activado ✨
 
-<br/>  
+---
 
+## 📬 Contacto
 
-## Github Stats  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stella-maris-cominotti/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SMCominotti)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stellacominotti@gmail.com)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=SMCominotti&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=react&layout=compact&langs_count=6&include_all_commits=true" align="center" />
-</div>
+---
 
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMCominotti&show_icons=true&count_private=true&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=radical&layout=compact&langs_count=6&include_all_commits=true&hide_border=true)
 
 
 
