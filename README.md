@@ -10,7 +10,6 @@ Me apasiona el desarrollo frontend, crear interfaces que no solo funcionen bien 
 
 ---
 
-## 🛠️ Tech Stack
 
 **Frontend**
 `JavaScript` `TypeScript` `React` `Redux` `Angular` `Next.js` `HTML5` `CSS3` `TailwindCSS` `Bootstrap`
@@ -63,7 +62,7 @@ Incluye: autenticación propia y con terceros, carrito de compras, pasarela de p
 - Formada en **diseño UX/UI**
 - Arrancando un curso de **Agentes de IA y Automatización** 🤖
 
-## My Skill Set:  
+ 
 <br>
 
 
@@ -119,10 +118,7 @@ Me encanta programar con el editor lleno de colores. VSCode con tema de colores 
 
 ---
 
-## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMCominotti&show_icons=true&count_private=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMCominotti&theme=radical&layout=compact&langs_count=6&include_all_commits=true&hide_border=true)
 
 
 
