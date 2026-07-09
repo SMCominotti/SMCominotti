@@ -4,7 +4,7 @@
   
 # ¡Hola! Soy Stella Maris 👩‍💻
 
-Desarrolladora Full Stack con muchas ganas de crecer en el mundo tech 🌍. Vengo de un bootcamp intensivo de más de 800 horas y actualmente estoy cursando el 2º año de **Desarrollo de Aplicaciones Web (DAW)** en España — así que sigo sumando y aprendiendo todos los días.
+Desarrolladora Full Stack graduada en **Desarrollo de Aplicaciones Web (DAW)** en España, con formación previa en un bootcamp intensivo de más de 800 horas. Recientemente completé mis prácticas (FCT) desarrollando una aplicación real de gestión de inventario para una empresa del grupo Prensa Ibérica — actualmente en búsqueda activa de mi primera oportunidad como developer.
 
 Me apasiona el desarrollo frontend, crear interfaces que no solo funcionen bien sino que también se vean bien. Disfruto trabajar en equipo, me adapto rápido y siempre busco mejorar lo que hago.
 
@@ -12,20 +12,29 @@ Me apasiona el desarrollo frontend, crear interfaces que no solo funcionen bien 
 
 
 **Frontend**
-`JavaScript` `TypeScript` `React` `Redux` `Angular` `Next.js` `HTML5` `CSS3` `TailwindCSS` `Bootstrap`
+`JavaScript` `TypeScript` `Vue.js` `React` `Redux` `Angular` `Next.js` `HTML5` `CSS3` `TailwindCSS` `Bootstrap`
 
 **Backend**
-`Node.js` `Express` `REST APIs`
+`Node.js` `Fastify` `Express` `REST APIs`
 
 **Bases de datos**
-`PostgreSQL` `MongoDB` `MySQL` `SQL Server` `Sequelize` `Prisma`
+`PostgreSQL` `MongoDB` `MySQL` `SQL Server` `SQLite` `Drizzle ORM` `Sequelize` `Prisma`
 
 **Herramientas & otros**
-`Git` `GitHub` `Firebase` `Cloudinary` `Auth0` `Figma` `Trello` `SCRUM`
+`Git` `GitHub` `Supabase` `Firebase` `Cloudinary` `Auth0` `Figma` `Trello` `SCRUM`
 
 ---
 
 ## 🚀 Proyectos destacados
+
+### 📦 InventarioRDV — Proyecto de Prácticas (FCT)
+Aplicación real de gestión de inventario desarrollada durante mis prácticas para una empresa del grupo Prensa Ibérica. Arquitectura hexagonal con CQRS, autenticación JWT con roles, exportación/importación de datos, y suite de más de 100 tests (Vitest + Playwright E2E).
+
+**Stack:** TypeScript · Fastify · Vue 3 · Drizzle ORM · SQLite · JWT
+
+🔒 Repositorio privado (proyecto de empresa) — [ver caso de estudio en mi portfolio](https://portfolio-smc.vercel.app)
+
+---
 
 ### 🍔 Food App — Proyecto Individual
 App de recetas con búsqueda, filtros combinados, paginación y formulario de creación. CRUD completo, validaciones y manejo de errores end-to-end.
@@ -58,9 +67,10 @@ Incluye: autenticación propia y con terceros, carrito de compras, pasarela de p
 
 ## 📚 Actualmente
 
-- Cursando **2º año de DAW** en España
+- **Graduada** del ciclo de Desarrollo de Aplicaciones Web (DAW) en España
+- En **búsqueda activa** de mi primera oportunidad como developer
 - Formada en **diseño UX/UI**
-- Arrancando un curso de **Agentes de IA y Automatización** 🤖
+- 🤖 Explorando el mundo de los **agentes de IA** — formándome en automatización con **n8n**, construyendo asistentes personalizados
 
  
 <br>
@@ -74,6 +84,7 @@ Incluye: autenticación propia y con terceros, carrito de compras, pasarela de p
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
