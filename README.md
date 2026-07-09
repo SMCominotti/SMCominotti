@@ -85,6 +85,9 @@ Incluye: autenticación propia y con terceros, carrito de compras, pasarela de p
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" height="50" /></a>
+<a href="https://www.fastify.io/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/fastify/000000" alt="Fastify" height="50" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
@@ -128,8 +131,3 @@ Me encanta programar con el editor lleno de colores. VSCode con tema de colores 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stellacominotti@gmail.com)
 
 ---
-
-
-
-
-
